@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669615296289",
+    "project_id": "trade-stack",
+    "storage_bucket": "trade-stack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669615296289:android:72a3340426fb8d20c6f860",
+        "android_client_info": {
+          "package_name": "com.audeet.tradestack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669615296289-koguodb31gqf73ghjjjvdcjur44h67b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxLss1vBKEpOAb3_sjRUL7I3F7mO6JYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669615296289-koguodb31gqf73ghjjjvdcjur44h67b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
